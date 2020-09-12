@@ -3,9 +3,12 @@
   <p align="center">
   <a href="https://linkedin.com/in/danielnunesdc">
     <img alt="Made by Daniel Nunes" src="https://img.shields.io/badge/made%20by-Daniel Nunes-%2300AFA2">
-    <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/nunesdaniel/readme_templates?color=00AFA2">
-    <img alt="Project programing languages count" src="https://img.shields.io/github/languages/count/nunesdaniel/readme_templates?color=00AFA2">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/nunesdaniel/readme_templates?color=00AFA2">
+    <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/nunesdaniel/
+Personal-Financial-Control-App?color=00AFA2">
+    <img alt="Project programing languages count" src="https://img.shields.io/github/languages/count/nunesdaniel/
+Personal-Financial-Control-App?color=00AFA2">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/nunesdaniel/
+Personal-Financial-Control-App?color=00AFA2">
   </a>
 </p>
 
