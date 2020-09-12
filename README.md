@@ -1,6 +1,15 @@
-## Personal Financial Control APP
+<h2 align="center" >Personal Financial Control APP</h2>
 
-The challenge is to develop a web application for Personal Financial Control, with NodeJs and Express technologies to create API, MongoDB and Mongoose to persist data, React on the frontend consuming the developed API, and finally publish on Heroku.
+  <p align="center">
+  <a href="https://linkedin.com/in/danielnunesdc">
+    <img alt="Made by Daniel Nunes" src="https://img.shields.io/badge/made%20by-Daniel Nunes-%2300AFA2">
+    <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/nunesdaniel/readme_templates?color=00AFA2">
+    <img alt="Project programing languages count" src="https://img.shields.io/github/languages/count/nunesdaniel/readme_templates?color=00AFA2">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/nunesdaniel/readme_templates?color=00AFA2">
+  </a>
+</p>
+
+  <p align="center">The challenge is to develop a web application for Personal Financial Control, with NodeJs and Express technologies to create API, MongoDB and Mongoose to persist data, React on the frontend consuming the developed API, and finally publish on Heroku.</p>
 
 **Functionalities:**
 
@@ -63,6 +72,18 @@ For more details use the Development Guide.
 - [ReactJs](https://reactjs.org/)
 - [MongoDB Atlas](https://www.mongodb.com/)
 - [Heroku](https://www.heroku.com/)
+
+#### How to contribute
+
+If you want to contribute to this repository, either by correcting any problems, adding comments or improving the documentation, you can follow this tutorial below:
+
+- Fork this repository;
+- Go to your GitHub profile and make a clone of the repository;
+- Create a branch with your change: `git checkout -b my-change`;
+- Make any necessary changes to the code or documentation;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-change`;
+- Now just open your Pull Request;
 
 #### Get in touch!
 
